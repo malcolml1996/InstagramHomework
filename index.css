@@ -1,0 +1,55 @@
+
+
+.mainPicture{
+  height: 427;
+  width: 30%;
+  margin-left: 20%;
+
+}
+
+
+button{
+  background-color: blue;
+  width: 68%;
+  height:29px;
+  color: white;
+
+}
+
+#logo{
+
+    height: 68px;
+    width: 70;
+}
+
+
+.form {
+width: 320px;
+background: #fff;
+border: 1px solid black;
+padding: 40px 20px;
+box-sizing: border-box;
+position: fixed;
+left: 50%;
+top: 10px;
+
+}
+
+#account{
+  border: 1px solid black;
+  left: 50%;
+  background: #fff;
+width: 320px;
+padding: 40px 20px;
+box-sizing: border-box;
+}
+
+li {
+    display: inline;
+}
+
+footer  {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+}
